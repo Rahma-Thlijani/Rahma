@@ -14,11 +14,11 @@ All the project steps are organized and listed below:
 1. Data Understanding
 2. Data Exploration
 3. Multiple Regression Model
-3.1 Model Training\
+3.1 Model Training
 3.2 Model Prediction
 3.3 Model Evaluation
 4. Deep Learning Model
-4.1 Model Training 
+4.1 Model Training
 4.2 Model Prediction  
 4.3 Model Evaluation   
 ## Conclusion / Results
