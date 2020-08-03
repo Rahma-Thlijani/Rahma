@@ -13,11 +13,9 @@ You will first understand the data the we will apply data exploration. Afterward
 All the project steps are organized and listed below:
 1. Data Understanding
 2. Data Exploration
-3. Multiple Regression Model
-  
-  3.1 Model Training
-   
-  3.2 Model Prediction
+3. Multiple Regression Model  
+3.1 Model Training
+3.2 Model Prediction
    
   3.3 Model Evaluation 
   
