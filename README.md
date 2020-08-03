@@ -1,4 +1,5 @@
-# Anticipating Youtube Videos' Views ![Image](youtube1.png)
+![Image](youtube1.png)
+# Anticipating Youtube Videos' Views 
 Data science project that uses deep learning and multiple linear regression aiming to predict the number of views for youtube videos.
 ## Data Description
 We have two datasets in this project: "StatsVideosXALL.csv" (for the features) and "StatsVideosXALL.csv" (for the output).
@@ -14,11 +15,15 @@ All the project steps are organized and listed below:
 2. Data Exploration
 3. Multiple Regression Model
    3.1 Model Training
+   
    3.2 Model Prediction
+   
    3.3 Model Evaluation
 4.Deep Learning Model
    4.1 Model Training
+   
    4.2 Model Prediction
+   
    4.3 Model Evaluation
 ## Conclusion / Results
 Two different learning algorithms (Multiple Linear Regression and Deep Neural Network) were tested, and we have evaluated their performance.
