@@ -18,8 +18,8 @@ All the project steps are organized and listed below:
    
    3.2 Model Prediction
    
-   3.3 Model Evaluation
-4.Deep Learning Model
+   3.3 Model Evaluation   
+4. Deep Learning Model
    4.1 Model Training
    
    4.2 Model Prediction
