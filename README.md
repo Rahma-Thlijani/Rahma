@@ -13,14 +13,14 @@ You will first understand the data the we will apply data exploration. Afterward
 All the project steps are organized and listed below:
 1. Data Understanding
 2. Data Exploration
-3. Multiple Regression Model(<-- two spaces)
-3.1 Model Training(<-- two spaces)
-3.2 Model Prediction(<-- two spaces)
-3.3 Model Evaluation(<-- two spaces) 
-4. Deep Learning Model(<-- two spaces)
-4.1 Model Training(<-- two spaces)  
-4.2 Model Prediction(<-- two spaces)  
-4.3 Model Evaluation(<-- two spaces)   
+3. Multiple Regression Model
+3.1 Model Training\
+3.2 Model Prediction
+3.3 Model Evaluation
+4. Deep Learning Model
+4.1 Model Training 
+4.2 Model Prediction  
+4.3 Model Evaluation   
 ## Conclusion / Results
 Two different learning algorithms (Multiple Linear Regression and Deep Neural Network) were tested, and we have evaluated their performance.
 The best prediction performance was achieved with the Deep Neural Network model, and resulted in the following metrics:
