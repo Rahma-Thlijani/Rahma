@@ -11,10 +11,10 @@ the RMSE and the R2_Score.
 ## Project Steps
 You will first understand the data the we will apply data exploration. Afterwards, we will train two different models and finally we will evaluate them.
 All the project steps are organized and listed below:
--1. Data Understanding
+1. Data Understanding
 2. Data Exploration
--3. Multiple Regression Model
- -3.1 Model Training
+3. Multiple Regression Model
+ 3.1 Model Training
 3.2 Model Prediction
 3.3 Model Evaluation
 4. Deep Learning Model
