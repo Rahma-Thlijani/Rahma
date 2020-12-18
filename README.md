@@ -5,11 +5,10 @@ Data science project that uses deep learning and multiple linear regression aimi
 We have two datasets in this project: "StatsVideosXALL.csv" (for the features) and "StatsVideosXALL.csv" (for the output).
 The datasets has 3365 rows and 4 columns: Likes, Dislikes, Subscribers and Views, they are related to each youtube video. 
 ## Project Overview
-In this project will apply supervised learning techniques on youtube data to predict the number of views of a video considering multiple features. 
-To accomplish this, we will compare 2 models: Multiple Linear Regression and Deep Neural Network. In addition, we will evaluate each model based on the MAE
-the RMSE and the R2_Score.
+In this project we will apply a supervised learning techniques on youtube data to predict the number of views of a video considering multiple features. 
+To accomplish this task, we will compare 2 models: Multiple Linear Regression and Deep Neural Network. In addition, we will evaluate each model based on the MAE, the RMSE and the R2_Score.
 ## Project Steps
-You will first understand the data the we will apply data exploration. Afterwards, we will train two different models and finally we will evaluate them.
+We will at first understand the data then we will apply data exploration. Afterwards, we will train two different models and finally we will evaluate them.
 All the project steps are organized and listed below:
 1. Data Understanding
 2. Data Exploration
